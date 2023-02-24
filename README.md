@@ -1,1 +1,1 @@
-## Simple scripts for recording video and audio with Windows Camera APP.
+## Simple scripts for automatically recording video+audio with Windows Camera APP.
